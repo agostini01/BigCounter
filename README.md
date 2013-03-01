@@ -18,4 +18,5 @@ Requesitos de software:
 Workstation:
 - Compilador XC08
 - IDE MAPLAB X
+- Eagle 6.1
 
