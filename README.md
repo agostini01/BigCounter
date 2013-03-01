@@ -13,4 +13,9 @@ Requesitos de software:
 - Contagem de pulsos de entrada externa, com debouncing
 - Reset da contagem com sinal externo
 - Salvar a contagem na memoria ROM, para não perder a contagem quando faltar a luz
+- Media dos ultimos valores
+
+Workstation:
+- Compilador XC08
+- IDE MAPLAB X
 
