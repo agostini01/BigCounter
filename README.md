@@ -1,6 +1,7 @@
 BigCounter
 ==========
 Arthur Benemann
+Nícolas Agostini
 
 Requesitos de Hardware:
 - 4 displays de 7 segmentos
@@ -9,7 +10,7 @@ Requesitos de Hardware:
 - 4 furos para fixação
 
 Requesitos de software:
-- Contagem de pulsos de entrada externa, com debouncing.
+- Contagem de pulsos de entrada externa, com debouncing
 - Reset da contagem com sinal externo
 - Salvar a contagem na memoria ROM, para não perder a contagem quando faltar a luz
 
